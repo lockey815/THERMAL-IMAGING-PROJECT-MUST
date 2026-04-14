@@ -205,8 +205,10 @@ Thermal data:
 Faculty of Applied Sciences and Technology  
 Department of Biomedical Sciences and Engineering
 
-**Supervisor:** Dr. Mulerwa Martha  
+**Supervisor1:** Dr. Mulerwa Martha  
 **Email:** mmulerwa@must.ac.ug
+**Supervisor2:** Joshua Biryomumeisho 
+**Email:** jbiryomumeisho@must.ac.ug
 
 ---
 
