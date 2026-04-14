@@ -207,6 +207,7 @@ Department of Biomedical Sciences and Engineering
 
 **Supervisor1:** Dr. Mulerwa Martha  
 **Email:** mmulerwa@must.ac.ug
+
 **Supervisor2:** Joshua Biryomumeisho 
 **Email:** jbiryomumeisho@must.ac.ug
 
