@@ -123,7 +123,6 @@ Component selection optimized for:
 Algorithms implemented:
 
 - Sensor data acquisition
-- Gaussian noise filtering
 - Thermal interpolation
 
 ### 4️⃣ Prototype Integration
