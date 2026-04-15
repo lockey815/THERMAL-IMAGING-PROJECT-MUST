@@ -24,7 +24,7 @@ It is designed to be a **portable, safe, and cost-effective tool for community-l
 
 - **Researchers:** Lofoga Innocent & Ayikoru Winnie  
 - **Department:** Biomedical Sciences and Engineering  
-- **Supervisor:** Dr. Mulerwa Martha  
+- **Supervisors:** Dr. Mulerwa Martha and Eng. Joshua Biryomumeisho
 - **Institution:** Mbarara University of Science and Technology (MUST)
 
 ---
